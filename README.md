@@ -2,9 +2,9 @@
   Howdy! :smirk_cat::v: I'm Marco! :runner:
 </h1>
 
-<p align='center'>
+<h3 align='center'>
   I'm currently studying Computer Science @ the University of Michigan-Flint. :part_alternation_mark:
-</p>
+</h3>
 
 <p align='center'>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
