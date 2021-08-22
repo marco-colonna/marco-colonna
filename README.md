@@ -25,6 +25,18 @@
   </a>
 </p>
 
+<p align='center'>
+  <a href='https://github.com/devicons/devicon'>
+    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg' alt='Windows icon'>
+  </a>&nbsp;&nbsp;
+  <a href='https://github.com/devicons/devicon'>
+    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' alt='Chrome icon'>
+  </a>&nbsp;&nbsp;
+  <a href='https://github.com/devicons/devicon'>
+    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='VS Code icon'>
+  </a>
+</p>
+
 <!--
 **marco-colonna/marco-colonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
