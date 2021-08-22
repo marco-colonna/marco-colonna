@@ -10,9 +10,9 @@ If you like any of the icons, then check out: https://github.com/devicons/devico
   :rainbow: Howdy! :smirk_cat::v: I'm Marco! :runner:
 </h1>
 
-<h3 align='center'>
-  :mortar_board: I'm currently studying Computer Science @ the University of Michigan-Flint. :part_alternation_mark:
-</h3>
+<p align='center'>
+  <b>:mortar_board: I'm currently studying Computer Science @ the University of Michigan-Flint. :part_alternation_mark:</b>
+</p>
 
 <p align='center'>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
