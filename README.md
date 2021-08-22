@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Howdy! :smirk_cat::v: I'm Marco! :runner:
+  :rainbow: Howdy! :smirk_cat::v: I'm Marco! :runner:
 </h1>
 
 <h3 align='center'>
-  I'm currently studying Computer Science @ the University of Michigan-Flint. :part_alternation_mark:
+  :mortar_board: I'm currently studying Computer Science @ the University of Michigan-Flint. :part_alternation_mark:
 </h3>
 
 <p align='center'>
