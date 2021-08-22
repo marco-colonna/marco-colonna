@@ -11,6 +11,13 @@
     <img src='https://github-readme-stats.vercel.app/api?username=marco-colonna&hide=stars,prs,issues,contribs&show_icons=true&count_private=true&theme=react' alt='GitHub Stats Card'>
   </a>
 </p>
+
+<p align='center'>
+  <a href='https://github.com/devicons/devicon'>
+    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='C++ icon'>
+    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python icon'>
+  </a>
+</p>
   
 <p align='center'>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
