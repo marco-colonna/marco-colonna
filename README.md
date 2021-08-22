@@ -1,3 +1,11 @@
+<!--
+If you're reading this then you probably liked my README. :) Feel free to take any ideas or inspirations!
+
+If you like the stats and language card, then check out: https://github.com/anuraghazra/github-readme-stats
+
+If you like any of the icons, then check out: https://github.com/devicons/devicon
+-->
+
 <h1 align='center'>
   :rainbow: Howdy! :smirk_cat::v: I'm Marco! :runner:
 </h1>
@@ -14,8 +22,10 @@
 
 <p align='center'>
   <a href='https://github.com/devicons/devicon'>
-    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='C++ icon'>
-    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python icon'>
+    <img height='100' src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='C++ icon'>
+  </a>&nbsp;&nbsp;
+  <a href='https://github.com/devicons/devicon'>
+    <img height='100' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python icon'>
   </a>
 </p>
   
@@ -26,14 +36,14 @@
 </p>
 
 <p align='center'>
-  <a href='https://github.com/devicons/devicon'>
-    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg' alt='Windows icon'>
+  <a href='https://www.microsoft.com/en-us/windows'>
+    <img height='100' src='https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg' alt='Windows icon'>
   </a>&nbsp;&nbsp;
-  <a href='https://github.com/devicons/devicon'>
-    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' alt='Chrome icon'>
+  <a href='https://www.google.com/chrome/'>
+    <img height='100' src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' alt='Chrome icon'>
   </a>&nbsp;&nbsp;
-  <a href='https://github.com/devicons/devicon'>
-    <img width='100' height='auto' src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='VS Code icon'>
+  <a href='https://code.visualstudio.com/'>
+    <img height='100' src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='VS Code icon'>
   </a>
 </p>
 
