@@ -31,7 +31,7 @@ If you like any of the icons, then check out: https://github.com/devicons/devico
   
 <p align='center'>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=marco-colonna&theme=react' alt='Top Languages Card'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=marco-colonna&exclude_repo=my-first-game,enhanced-karting&hide=mathematica,shaderlab,hlsl&langs_count=6&layout=compact&theme=react' alt='Top Languages Card'>
   </a>
 </p>
 
