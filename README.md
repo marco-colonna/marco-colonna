@@ -1,6 +1,6 @@
 ### Hi! :smirk_cat: I'm Marco :wave:
 
-- :books: I'm studying Computer Science at the University of Michigan-Flint :part_alternation_mark:
+- :books: I'm studying computer science at the University of Michigan-Flint :part_alternation_mark:
 - :abacus: I'm currently interested in machine learning and data mining :pick:
 - :toolbox: Top languages: Python, C++, and HTML/CSS/JavaScript :desktop_computer:
 
